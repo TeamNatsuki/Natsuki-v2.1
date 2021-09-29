@@ -1,5 +1,5 @@
 aiogram
-aioredis
+# aioredis
 future
 emoji
 lxml
