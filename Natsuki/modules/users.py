@@ -21,11 +21,11 @@ import html
 
 from aiogram.dispatcher.middlewares import BaseMiddleware
 
-from Shadow import dp
-from Shadow.decorator import register
-from Shadow.modules import LOADED_MODULES
-from Shadow.services.mongo import db
-from Shadow.utils.logger import log
+from Natsuki import dp
+from Natsuki.decorator import register
+from Natsuki.modules import LOADED_MODULES
+from Natsuki.services.mongo import db
+from Natsuki.utils.logger import log
 
 from .utils.connections import chat_connection
 from .utils.disable import disableable_dec
