@@ -94,3 +94,4 @@ python-rapidjson==0.9.3
 dateparser==1.0.0
 pymediainfo
 sqlalchemy
+sqlalchemy==1.3.20
